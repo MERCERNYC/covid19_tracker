@@ -4,6 +4,8 @@ COVID-19 Tracker. Build with React,Charts.JS and Material UI.
 
 [Live Site](https://covidglobaltracker.netlify.app/)
 
+![alt tag]()
+
 ## Installation
 
 ```
