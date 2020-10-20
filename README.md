@@ -1,18 +1,20 @@
 # Covid19_tracker
 
-...
+COVID-19 Tracker. Build with React,Charts.JS and Material UI.
+
+[Live Site](https://covidglobaltracker.netlify.app/)
 
 ## Installation
 
-
-
-```bash
-
+```
+run npm i && npm start
 ```
 
-## Usage
+## API Used
 
-```python
+```
+https://covid19.mathdro.id/api
+https://api.covidtracking.com/v1/us/daily.json'
 
 ```
 
