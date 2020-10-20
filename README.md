@@ -4,7 +4,8 @@ COVID-19 Tracker. Build with React,Charts.JS and Material UI.
 
 [Live Site](https://covidglobaltracker.netlify.app/)
 
-![alt tag](https://github.com/MERCERNYC/covid19_tracker/issues/1#issue-725797413)
+<img width="1381" alt="Screen Shot 2020-10-20 at 1 24 42 PM" src="https://user-images.githubusercontent.com/23249535/96622280-be01f500-12d7-11eb-8c1c-36e350b82595.png">
+
 
 ## Installation
 
